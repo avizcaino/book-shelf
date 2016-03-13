@@ -1,0 +1,28 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "com.avlio.aurelia"
+        },
+        "phonegap-plugin-push": {
+            "SENDER_ID": "",
+            "PACKAGE_NAME": "com.avlio.aurelia"
+        },
+        "cordova-plugin-file": {
+            "PACKAGE_NAME": "com.avlio.aurelia"
+        },
+        "cordova-plugin-file-transfer": {
+            "PACKAGE_NAME": "com.avlio.aurelia"
+        },
+        "cordova-plugin-network-information": {
+            "PACKAGE_NAME": "com.avlio.aurelia"
+        }
+    },
+    "dependent_plugins": {}
+}

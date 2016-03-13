@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <meta http-equiv="Content-Security-Policy"
+          content="
+            default-src
+                *
+                http://mys.newuibcn.com
+                http://mys.newuibcn.com
+                http://mys.newuibcn.com
+                data:
+                http://mys.newuibcn.com;
+            font-src
+                'self'
+                http://mys.newuibcn.com
+                data:;
+            img-src * 'self' data:;
+            style-src * http://mys.newuibcn.com 'unsafe-inline';
+            script-src * http://mys.newuibcn.com 'unsafe-eval' 'unsafe-inline'">
+</head>
+<body>
+<H1>Test Autoupdate</H1>
+<script type="text/javascript" charset="utf-8" src="cordova.js"></script>
+<!--script src="jspm_packages/system-register-only.js"></script-->
+<script type="text/javascript"
+        timeout="5100"
+        server="http://mys.newuibcn.com/apk/"
+        manifest="manifest.json"
+        src="dist/core/cordova/auto-update.js">
+</script>
+</body>
+</html>

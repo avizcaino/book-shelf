@@ -1,0 +1,86 @@
+{
+  "files": {
+    "config": {
+      "version": "458fb9e9cab5bd56b561215d2535edaf34aef2c9",
+      "filename": "config.js"
+    },
+    "styles": {
+      "version": "fa59d97404192c59720ef5d62615ceaa3f3e4610",
+      "filename": "styles/styles.css"
+    },
+    "custom-old": {
+      "version": "d843a12f36af7bd2606f815ab6757e672f4a18f5",
+      "filename": "styles/custom.css"
+    },
+    "app-build": {
+      "version": "103507e19f1a5d8bdbe189a8c979ccf76bd5a54c",
+      "filename": "dist/app-build.js"
+    },
+    "aurelia": {
+      "version": "45950fc79d296a9253d9a3f4476d0af090cf93a2",
+      "filename": "dist/aurelia.js"
+    },
+    "main": {
+      "version": "16c4c8cf86a01f6d3c4818a43f5aaf89a061a960",
+      "filename": "dist/main.js"
+    },
+    "polymer": {
+      "version": "749fe19ebafcd4355cde986d73262a778fde2e8e",
+      "filename": "dist/polymer.html"
+    },
+    "push-receiver": {
+      "version": "49a67711d9a78aa600662c2094c38fa93fd73882",
+      "filename": "dist/core/cordova/push-receiver.js"
+    },
+    "index": {
+      "version": "aca792aa31ae958bd20a9a0630cd98d986e8d33b",
+      "filename": "mys.html"
+    },
+    "system": {
+      "version": "ea2d7cecbce9a5de1b6777fa755578976b7f3e2b",
+      "filename": "jspm_packages/system.js"
+    },
+    "font-awesome-style": {
+      "version": "12d6861075de8e293265ff6ff03b1f3adcb44c76",
+      "filename": "jspm_packages/npm/font-awesome@4.5.0/css/font-awesome.min.css"
+    },
+    "hydrolysis": {
+      "filename": "bower_components/hydrolysis/hydrolysis.js",
+      "version": "b50b360b422798c1af1805ba8d01701714dba96c"
+    },
+    "iron-test-helpers-mock-interactions": {
+      "filename": "bower_components/iron-test-helpers/mock-interactions.js",
+      "version": "fab2e473e1a7496b9c26c1445cfd4f39107e134d"
+    },
+    "iron-test-helpers-test-helpers": {
+      "filename": "bower_components/iron-test-helpers/test-helpers.js",
+      "version": "7b93cac6af1af8f6118429184046f0b6020a0d4f"
+    },
+    "marked": {
+      "filename": "bower_components/marked/lib/marked.js",
+      "version": "acaa528bdc5a744aba8c7c5bb1ca5c2346e8bfea"
+    },
+    "prism": {
+      "filename": "bower_components/prism/prism.js",
+      "version": "f0d21bd68411454ca688df869111945706a59cde"
+    },
+    "prism-css": {
+      "filename": "bower_components/prism/themes/prism.css",
+      "version": "83f9e8ba5ceb21e8d3e64097413abcbd425b2bb0"
+    },
+    "promise-polyfill": {
+      "filename": "bower_components/promise-polyfill/Promise.js",
+      "version": "2aaa9aa77f08268f24ef5c649e7ffeddb860b1e7"
+    },
+    "web-animations-js": {
+      "filename": "bower_components/web-animations-js/web-animations-next-lite.min.js",
+      "version": "14dcb14f65b8a91e9e788b7890b09e750440ab96"
+    },
+    "webcomponentsjs": {
+      "filename": "bower_components/webcomponentsjs/webcomponents-lite.min.js",
+      "version": "be21e4b8958e8737bb3e506d55c5c48ee03e8226"
+    }
+  },
+  "load": [],
+  "version": "e71488ba96ca5a6627175f5694b525773874b755"
+}

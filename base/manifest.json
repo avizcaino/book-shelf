@@ -1,0 +1,77 @@
+{
+  "files": {
+    "config": {
+      "version": "458fb9e9cab5bd56b561215d2535edaf34aef2c9",
+      "filename": "config.js"
+    },
+    "styles": {
+      "version": "fa59d97404192c59720ef5d62615ceaa3f3e4610",
+      "filename": "styles/styles.css"
+    },
+    "custom-old": {
+      "version": "e77aec4fa34c3ecce64d7308f17dae0f9bbd3404",
+      "filename": "styles/custom.css"
+    },
+    "app-build": {
+      "version": "103507e19f1a5d8bdbe189a8c979ccf76bd5a54c",
+      "filename": "dist/app-build.js"
+    },
+    "aurelia": {
+      "version": "45950fc79d296a9253d9a3f4476d0af090cf93a2",
+      "filename": "dist/aurelia.js"
+    },
+    "main": {
+      "version": "16c4c8cf86a01f6d3c4818a43f5aaf89a061a960",
+      "filename": "dist/main.js"
+    },
+    "polymer": {
+      "version": "749fe19ebafcd4355cde986d73262a778fde2e8e",
+      "filename": "dist/polymer.html"
+    },
+    "push-receiver": {
+      "version": "49a67711d9a78aa600662c2094c38fa93fd73882",
+      "filename": "dist/core/cordova/push-receiver.js"
+    },
+    "index": {
+      "version": "40e3db597532a0e2b86f3c645223ff990495d079",
+      "filename": "mys.html"
+    },
+    "system": {
+      "version": "ea2d7cecbce9a5de1b6777fa755578976b7f3e2b",
+      "filename": "jspm_packages/system.js"
+    },
+    "font-awesome-style": {
+      "version": "12d6861075de8e293265ff6ff03b1f3adcb44c76",
+      "filename": "jspm_packages/npm/font-awesome@4.5.0/css/font-awesome.min.css"
+    },
+    "hydrolysis":{
+      "filename": "bower_components/hydrolysis/hydrolysis.js"
+    },
+    "iron-test-helpers-mock-interactions":{
+      "filename": "bower_components/iron-test-helpers/mock-interactions.js"
+    },
+    "iron-test-helpers-test-helpers":{
+      "filename": "bower_components/iron-test-helpers/test-helpers.js"
+    },
+    "marked":{
+      "filename": "bower_components/marked/lib/marked.js"
+    },
+    "prism":{
+      "filename": "bower_components/prism/prism.js"
+    },
+    "prism-css":{
+      "filename": "bower_components/prism/themes/prism.css"
+    },
+    "promise-polyfill":{
+      "filename": "bower_components/promise-polyfill/Promise.js"
+    },
+    "web-animations-js":{
+      "filename": "bower_components/web-animations-js/web-animations-next-lite.min.js"
+    },
+    "webcomponentsjs":{
+      "filename": "bower_components/webcomponentsjs/webcomponents-lite.min.js"
+    }
+  },
+  "load": [],
+  "version": "b42b6163ff37a65b20a495ef4ec4523824fc24f8"
+}

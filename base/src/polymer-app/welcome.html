@@ -1,0 +1,33 @@
+<template>
+  <paper-card heading="${heading}" class="absolute-center" style="width: 50%">
+    <div class="card-content">
+      <paper-input-container>
+        <label for="password">Username</label>
+        <input is="iron-input" value.bind="password" class="form-control" id="password" placeholder="" type="password">
+      </paper-input-container>
+      <paper-input-container>
+        <label for="password">Password</label>
+        <input is="iron-input" value.bind="password" class="form-control" id="password" placeholder="" type="password">
+      </paper-input-container>
+      <paper-button type="submit">Submit</paper-button>
+    </div>
+  </paper-card>
+  <!--section class="au-animate">
+    <h2>${heading}</h2>
+    <form role="form" submit.delegate="submit()">
+      <div class="form-group">
+        <label for="fn">First Name</label>
+        <input type="text" value.bind="firstName" class="form-control" id="fn" placeholder="first name">
+      </div>
+      <div class="form-group">
+        <label for="ln">Last Name</label>
+        <input type="text" value.bind="lastName" class="form-control" id="ln" placeholder="last name">
+      </div>
+      <div class="form-group">
+        <label>Full Name</label>
+        <p class="help-block">${fullName | upper}</p>
+      </div>
+      <paper-button type="submit">Submit</paper-button>
+    </form>
+  </section-->
+</template>

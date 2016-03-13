@@ -1,0 +1,6 @@
+.idea
+hooks
+platforms/**/*
+!platforms/platforms.json
+plugins/**/*
+!plugins/*.json

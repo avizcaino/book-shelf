@@ -1,0 +1,26 @@
+{
+  "name": "aurelia-apk",
+  "main": "dist/main.js",
+  "version": "0.0.0",
+  "authors": [
+    "Alex Vizcaino <avizcainoluna@gmail.com>"
+  ],
+  "description": "bower",
+  "license": "MIT",
+  "homepage": "http://avizcaino.github.io",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#1.2.0",
+    "iron-elements": "PolymerElements/iron-elements#~1.0.8",
+    "paper-elements": "PolymerElements/paper-elements#~1.0.7",
+    "neon-elements": "PolymerElements/neon-elements#~1.0.0",
+    "gold-elements": "PolymerElements/gold-elements#~1.0.1",
+    "platinum-elements": "PolymerElements/platinum-elements#~2.0.0"
+  }
+}
