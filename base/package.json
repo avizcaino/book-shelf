@@ -1,7 +1,7 @@
 {
-  "name": "aurelia-apk",
+  "name": "book-shelf",
   "version": "0.0.0",
-  "description": "A starter kit for building a standard navigation-style app with Aurelia, TypeScript, Cordova and Polymer",
+  "description": "Book shelf navigation-style app with Aurelia, TypeScript, Cordova and Polymer",
   "keywords": [
     "aurelia",
     "navigation",
@@ -10,7 +10,7 @@
     "cordova",
     "polymer"
   ],
-  "homepage": "http://aurelia.io",
+  "homepage": "http://avizcaino.github.io/book-shelf",
   "bugs": {
     "url": ""
   },
